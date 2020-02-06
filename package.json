@@ -1,0 +1,19 @@
+{
+  "name": "jenkinstest",
+  "version": "1.0.0",
+  "description": "this is test the jenkins ci job for install the node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavansahu06/jenkinstest.git"
+  },
+  "author": "Pavan Sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavansahu06/jenkinstest/issues"
+  },
+  "homepage": "https://github.com/pavansahu06/jenkinstest#readme"
+}
